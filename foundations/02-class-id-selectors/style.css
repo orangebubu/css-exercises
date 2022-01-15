@@ -1,0 +1,18 @@
+.class {
+    background-color: pink;
+    font-family: "Verdana", sans-serif;
+}
+
+.classExtra {
+    font-size: 24px;
+}
+
+#blueID {
+    color: blue;
+    font-size: 36px;
+}
+
+#greenID {
+    background-color: greenyellow;
+    font-weight: bold;
+}
